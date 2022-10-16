@@ -5,4 +5,4 @@
 
 ## Önemli
 
-- Favicon eklemek için `index.html` dosyasında 9. satırdaki linki değiştirebilirsiniz. Ya da eklemek istemiyorsanız o satırı silebilirsiniz. İyi kullanımlar :)
+- Favicon eklemek için `index.html` dosyasında 10. satırdaki linki değiştirebilirsiniz. Ya da eklemek istemiyorsanız o satırı silebilirsiniz. İyi kullanımlar :)
